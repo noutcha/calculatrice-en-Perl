@@ -49,4 +49,3 @@ else{ #penser au cas autres
 		print("Seule les operation d'addition, soustraction, multiplication et division sont autorisees \n(pour la division utilisez le symbole':') "); 
 
 }
-
